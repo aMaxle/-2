@@ -1,4 +1,4 @@
-# -2
+//科学计算器2
 #include <iostream>
 #include <cstring>
 
